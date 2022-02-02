@@ -1,7 +1,9 @@
 let n1, n2, n3, n4, n5;
 let summe = 0;
 let ergebnis;
-let anzahlNoten = 0;
+let anzahlNoten = 5;
+
+//refactor auf --> notenAuslesen()
 function tfAuslesen () {
     summe = 0;
     ergebnis;
